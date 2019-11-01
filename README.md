@@ -71,9 +71,4 @@ python manage.py runserver
 * [Django](https://www.djangoproject.com/) - The web framework used
 * [Pip](https://pypi.org/project/pip/) - Package Manager
 
-##### :pushpin: 
-### Authors
-
-* **Rajuolivitto@gmail.com**
-
 See also another project in [this](https://github.com/rajuvitto) url.
