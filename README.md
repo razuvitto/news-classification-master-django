@@ -49,7 +49,8 @@ pip install package_name
 
 A step by step series of examples that tell you how to get a development env running
 
-* Open command prompt from project directory
+* Get a copy of project to your directory
+* Open command prompt from that directory
 * to run the project, use this command
 
 ```
