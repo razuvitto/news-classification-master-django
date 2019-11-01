@@ -3,7 +3,8 @@
 This is a project that I was working on when I was taking Natural Language Processing using Python language and Django Framework
 
 
-##### :pushpin: ## Getting Started
+##### :pushpin: 
+### Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
@@ -43,8 +44,8 @@ to install python package, use this command
 ```
 pip install package_name
 ```
-
-### Installing :pushpin:
+##### :pushpin: 
+### Installing
 
 A step by step series of examples that tell you how to get a development env running
 
@@ -57,19 +58,20 @@ python manage.py runserver
 
 * open browser with port http://localhost:8000/ :globe_with_meridians:
 
-
-### Demo :pushpin:
+##### :pushpin: 
+### Demo
 * First of all, you will see the greeting button with title "Check it Out", click that button
 * On the input text, input the news title that you want to classify, then press button "Check"
 * After that, you will see the comparison between Support Vector Machine and Naïve Bayes
 
-## Built With :pushpin:
+##### :pushpin: 
+### Built With
 
 * [Django](https://www.djangoproject.com/) - The web framework used
 * [Pip](https://pypi.org/project/pip/) - Package Manager
 
-
-## Authors :pushpin:
+##### :pushpin: 
+### Authors
 
 * **Rajuolivitto@gmail.com**
 
