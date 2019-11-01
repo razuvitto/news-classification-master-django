@@ -2,8 +2,8 @@
 #### :newspaper: :newspaper:
 This is a project that I was working on when I was taking Natural Language Processing using Python language and Django Framework
 
-##### :pushpin:
-## Getting Started
+
+##### :pushpin: ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
