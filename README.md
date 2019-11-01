@@ -1,5 +1,5 @@
-# News Classification :newspaper: :newspaper:
-
+# News Classification 
+### :newspaper: :newspaper:
 This is a project that I was working on when I was taking Natural Language Processing using Python language and Django Framework
 
 ## Getting Started :pushpin:
