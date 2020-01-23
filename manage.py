@@ -1,3 +1,7 @@
+# Coded with <3 Razuvitto
+# location : manage.py
+# October 2018
+
 #!/usr/bin/env python
 import os
 import sys

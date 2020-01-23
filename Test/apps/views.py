@@ -1,3 +1,7 @@
+# Coded with <3 Razuvitto
+# location : Test/apps/views.py
+# April 2018
+
 from django.shortcuts import render
 from apps.classification import main
 

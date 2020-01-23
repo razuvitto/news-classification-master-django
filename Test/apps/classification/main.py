@@ -1,3 +1,7 @@
+# Coded with <3 Razuvitto
+# location : Test/apps/classification/main.py
+# April 2018
+
 from django.core.files.storage import default_storage
 
 f = default_storage.open('apps/classification/news','r')

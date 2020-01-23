@@ -1,3 +1,7 @@
+# Coded with <3 Razuvitto
+# location : Test/urls.py
+# April 2018
+
 from django.contrib import admin
 from django.urls import path
 from django.conf.urls import include

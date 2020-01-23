@@ -1,3 +1,7 @@
+# Coded with <3 Razuvitto
+# location : Test/settings.py
+# April 2018
+
 import os
 
 # Build paths inside the project like this: os.path.join(BASE_DIR, ...)

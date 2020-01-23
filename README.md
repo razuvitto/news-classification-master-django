@@ -1,3 +1,9 @@
+<p align="center"><img src="https://pbs.twimg.com/media/DlRdo6PX4AABnH5.jpg:large"></p>
+
+<p align="center">
+Coded with <3 by <a href="mailto:Rajuolivitto@gmail.com?Subject=Hello%20Raju" target="_top">Razuvitto</a>
+</p>
+
 # News Classification 
 #### :newspaper: :newspaper:
 This is a project that I was working on when I was taking Natural Language Processing using Python language and Django Framework
@@ -71,4 +77,4 @@ python manage.py runserver
 * [Django](https://www.djangoproject.com/) - The web framework used
 * [Pip](https://pypi.org/project/pip/) - Package Manager
 
-See also another project in [this](https://github.com/rajuvitto) url.
+See also another project in [this](https://github.com/razuvitto) url.

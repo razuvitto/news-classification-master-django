@@ -1,3 +1,7 @@
+# Coded with <3 Razuvitto
+# location : apps/classification/main.py
+# April 2018
+
 from django.core.files.storage import default_storage
 
 # import library
