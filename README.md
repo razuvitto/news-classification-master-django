@@ -1,7 +1,7 @@
 <p align="center"><img src="https://pbs.twimg.com/media/DlRdo6PX4AABnH5.jpg:large"></p>
 
 <p align="center">
-Coded with <3 by <a href="mailto:Rajuolivitto@gmail.com?Subject=Hello%20Raju" target="_top">Razuvitto</a>
+Coded with <small>❤️</small> by <a href="mailto:Rajuolivitto@gmail.com?Subject=Hello%20Raju" target="_top">Razuvitto</a>
 </p>
 
 # News Classification 
